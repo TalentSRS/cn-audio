@@ -1,0 +1,13 @@
+parents: []
+title: Eight thousand sentences with audio
+tags:
+ - Audio
+description: |
+
+  Eight thousand plus sentences with audio recordings.
+
+units:
+ - title: Sentences
+   content: |
+     This unit contains all of the sentences. Click the 'Review' or 'Study' button to practice.
+   stencils: cn_audio.yaml
