@@ -965,13 +965,13 @@
   - Men should work.
   pinyin: nánrén yīnggāi gōngzuò
   type: chinese
-- chinese: 现在他应该已经到了。
+- chinese: 现在他应该已经到|了。
   english:
   - He should have already arrived by now.
   - He should have arrived by now.
   pinyin: ! 'Failed: xiànzài tā yīnggāi yǐjīng dào le. (also ta xianzai)'
   type: chinese
-- chinese: 他这个时候该到了。
+- chinese: 他这个时候该到|了。
   english:
   - This is the time he normally arrives.
   - This is the time he should arrive.
@@ -3505,7 +3505,7 @@
   - Today is my birthday.
   pinyin: jīntiān shì wǒ de shēngrì
   type: chinese
-- chinese: 我的生日快到了。
+- chinese: 我的生日快到|了。
   english:
   - My birthday is coming soon.
   pinyin: ! 'Failed: Wǒde shēngrì kuài dào le.'
@@ -8065,7 +8065,7 @@
   - Don't trust a man whose past you know nothing about.
   pinyin: bùyào xiāngxìn yī gè nǐ yīdiǎn dōu bù liǎojiě tā guòqu de rén
   type: chinese
-- chinese: 8点那班车今天早到了。
+- chinese: 8点那班车今天早到|了。
   english:
   - The eight o'clock bus was early today.
   - The regular eight o'clock bus arrived early today.
@@ -9767,7 +9767,7 @@
   - Is your work interesting?
   pinyin: nǐ de gōngzuò yǒuqù mǎ
   type: chinese
-- chinese: 夏天到了。
+- chinese: 夏天到|了。
   english:
   - Summer has arrived.
   pinyin: ! 'Failed: Xiàtiān dào le.'
@@ -10082,7 +10082,7 @@
   - From now on I will go to work on time.
   pinyin: ! 'Failed: Cóng xiànzài qǐ wǒ ànshí qù ɡōnɡzuò.'
   type: chinese
-- chinese: 起床的时间到了。
+- chinese: 起床的时间到|了。
   english:
   - Be-out-of-bed time has arrived.
   pinyin: ! 'Failed: Qǐchuáng de shíjiān dào le.'
@@ -10667,7 +10667,7 @@
   - No matter what, we must finish the task.
   pinyin: wúlùnrúhé wǒmen dōu yāo wánchéng rènwu
   type: chinese
-- chinese: 冬天到了。
+- chinese: 冬天到|了。
   english:
   - Winter has come.
   pinyin: ! 'Failed: Dōngtiān dào le.'
@@ -10883,7 +10883,7 @@
   - They're in love.
   pinyin: tāmen liànài le
   type: chinese
-- chinese: 春节快到了。
+- chinese: 春节快到|了。
   english:
   - The Chinese New Year is drawing near.
   pinyin: ! 'Failed: Chūnjié kuài dào le.'
@@ -13936,7 +13936,7 @@
   - He was injured, so I took his place in the competition.
   pinyin: tā shòushāng le wǒ dàitì tā cānjiā bǐsài
   type: chinese
-- chinese: 我在报纸上看到了它。
+- chinese: 我在报纸上看到|了它。
   english:
   - I saw it in the newspaper.
   - ! "I saw it in the newspaper. \n I read about it in the newspaper."
@@ -14017,7 +14017,7 @@
   - The teacher got angry because Xiao Li didn't finish his homework.
   pinyin: xiǎolín méiyǒu wánchéng zuòyè lǎoshī shēngqì le
   type: chinese
-- chinese: 我们偶然碰到了她。
+- chinese: 我们偶然碰到|了她。
   english:
   - We met her by accident.
   pinyin: wǒmen ǒurán pèngdào le tā
@@ -14199,7 +14199,7 @@
   - This government official is very corrupt.
   pinyin: zhège zhèngfǔguānyuán hěn fǔbài
   type: chinese
-- chinese: 我已到了退休的年龄。
+- chinese: 我已到|了退休的年龄。
   english:
   - I've reached retirement age.
   pinyin: ! 'Failed: Wǒ yǐ dàole tuìxiū de niánlíng.'
@@ -14340,7 +14340,7 @@
   - She's taking off her coat.
   pinyin: tā zhèngzài tuō wàitào
   type: chinese
-- chinese: 秋天到了。
+- chinese: 秋天到|了。
   english:
   - Autumn is here.
   pinyin: ! 'Failed: Qiūtiān dào le.'
@@ -15012,7 +15012,7 @@
   - The court implements the law.
   pinyin: fǎyuàn zhíxíng fǎlǜ
   type: chinese
-- chinese: 警察抓到了那个坏人。
+- chinese: 警察抓到|了那个坏人。
   english:
   - The police arrested that bad guy.
   pinyin: ! 'Failed: Jǐngchá zhuā dào le nàge huàirén.'
@@ -19937,7 +19937,7 @@
   - He's knocking at the door.
   pinyin: tā zài qiāomén
   type: chinese
-- chinese: 他竞争到了这个职位。
+- chinese: 他竞争到|了这个职位。
   english:
   - He competed to get this position.
   pinyin: ! 'Failed: Tā jìngzhēng dào le zhè gè zhíwèi.'
@@ -20379,7 +20379,7 @@
   - The people here are used to the cold.
   pinyin: zhèlǐ de rén xíguàn le hánlěng
   type: chinese
-- chinese: 她听到了一个惊人的消息。
+- chinese: 她听到|了一个惊人的消息。
   english:
   - She's heard some shocking news.
   pinyin: tā tīngdào le yī gè jīngrén de xiāoxi
@@ -21817,7 +21817,7 @@
   - The traffic is really heavy here.
   pinyin: zhèlǐ de jiāotōng hěn yōngjǐ
   type: chinese
-- chinese: 我被调到了人事部门。
+- chinese: 我被调到|了人事部门。
   english:
   - I was transferred to human resources department.
   pinyin: ! 'Failed: Wǒ bèi diào dào le rénshì bùmén.'
@@ -24623,7 +24623,7 @@
   - She feels dizzy.
   pinyin: tā gǎndào tóuyūn
   type: chinese
-- chinese: 圣诞节快到了。
+- chinese: 圣诞节快到|了。
   english:
   - Christmas is coming.
   - Christmas is soon.
@@ -26013,7 +26013,7 @@
   - You must learn from mistakes.
   pinyin: nǐ bìxū cóng shībài zhōng xīqǔjiàoxun
   type: chinese
-- chinese: 我们捉到了一只兔子。
+- chinese: 我们捉到|了一只兔子。
   english:
   - We've caught a rabbit.
   pinyin: ! 'Failed: Wǒmen zhuōdàole yī zhī tùzi.'
@@ -28409,7 +28409,7 @@
   - The children got together to play.
   pinyin: háizimen còu zàiyīqǐ wánshuǎ
   type: chinese
-- chinese: 她捡到了一个钱包。
+- chinese: 她捡到|了一个钱包。
   english:
   - She found a wallet on the ground.
   pinyin: ! 'Failed: Tā jiǎn dào le yī gè qiánbāo.'
@@ -29268,7 +29268,7 @@
   - My foot has become swollen.
   pinyin: wǒ de jiǎo zhǒng le
   type: chinese
-- chinese: 我头撞到了门，肿了一块。
+- chinese: 我头撞到|了门，肿了一块。
   english:
   - I bumped my head against the door and got a lump.
   pinyin: ! 'Failed: wǒ tóu zhuàngdào le mén, zhǒng le yī kuài.'
@@ -34976,7 +34976,7 @@
   - All Chinese set off firecrackers during the Spring Festival.
   pinyin: ! 'Failed: Xīnchūn qījiān, Zhōngguó rén dōu huì fàng biānpào.'
   type: chinese
-- chinese: 新春到了，家家户户放鞭炮。
+- chinese: 新春到|了，家家户户放鞭炮。
   english:
   - Lunar New Year has arrived. Each and every family sets off firecrackers.
   pinyin: ! 'Failed: Xīnchūn dào le, jiājiā hùhù fàng biānpào.'
@@ -35369,7 +35369,7 @@
   - The students played a trick on their teacher during class.
   pinyin: xuésheng men zài kètáng shǎng xìnòng lǎoshī
   type: chinese
-- chinese: 他撞到了柱子，头部受伤了。
+- chinese: 他撞到|了柱子，头部受伤了。
   english:
   - He bumped into a pillar and injured his head.
   pinyin: ! 'Failed: Tā zhuàng dào le zhùzi, tóubù shòushāng le.'
@@ -35709,7 +35709,7 @@
   - He's measuring the length of the wooden board.
   pinyin: tā zài cèliáng mùbǎn de chángdù
   type: chinese
-- chinese: 他呛到了。
+- chinese: 他呛到|了。
   english:
   - He almost choked.
   pinyin: ! 'Failed: Tā qiàngdào le.'
@@ -37668,7 +37668,7 @@
   - Stocks are constantly climbing.
   pinyin: gǔpiào bùduàn de pānshēng
   type: chinese
-- chinese: 我们终于爬到了顶峰。
+- chinese: 我们终于爬到|了顶峰。
   english:
   - We've finally reached the highest peak of the mountain.
   pinyin: ! 'Failed: Wǒmen zhōngyú pádàole dǐngfēng.'
@@ -40656,7 +40656,7 @@
   - This is the president's official residence.
   pinyin: zhè shì zǒngtǒng de guāndǐ
   type: chinese
-- chinese: 美国总统回到了官邸。
+- chinese: 美国总统回到|了官邸。
   english:
   - The US President returned to his official residence.
   pinyin: měiguó zǒngtǒng huídào le guāndǐ
@@ -41016,7 +41016,7 @@
   - The players for the match will be selected from among these.
   pinyin: cānsài duìyuán jiāng cóng tāmen dāngzhōng xuǎnbá
   type: chinese
-- chinese: 我买到了两张球赛的入场券。
+- chinese: 我买到|了两张球赛的入场券。
   english:
   - I've bought two tickets for the ball game.
   pinyin: ! 'Failed: Wǒ mǎidàole liǎng zhāng qiúsài de rùchǎngquàn.'
@@ -41127,7 +41127,7 @@
   - They drove the cattle up the mountain.
   pinyin: tāmen bǎ niú qún qūgǎn shàngshān
   type: chinese
-- chinese: 到了仲夏，雨下个不停。
+- chinese: 到|了仲夏，雨下个不停。
   english:
   - In mid-summer, the rain never stops.
   pinyin: ! 'Failed: Dàole zhòngxià, yǔ xià ge bùtíng.'
