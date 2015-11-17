@@ -10,5 +10,5 @@ description: |
 units:
  - title: Sentences
    content: |
-     This unit contains all of the sentences. Click the [Study Difficult Words](study) to begin.
+     This unit contains all of the sentences. Click [Study Difficult Words](study) to begin.
    stencils: cn_audio.yaml
