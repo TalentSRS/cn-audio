@@ -5,10 +5,13 @@ tags:
 image: headphones.jpg
 description: |
 
-  More than eight thousand sentences with audio recordings.
+  More than eight thousand sentences with audio recordings. Starting with very simple sentences, this course
+  will slowly build your vocabulary and listening comprehension to fluency. Finishing this course will prepare
+  you for the highest level of the HSK exam.
 
 units:
  - title: Sentences
    content: |
-     This unit contains all of the sentences. Click [Study Difficult Words](study) to begin.
+     With more than 8000 example sentences with audio recordings, this course is suitable for learners of every level.
+     Select a mode of study to begin.
    stencils: cn_audio.yaml
