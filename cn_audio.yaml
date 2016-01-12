@@ -1,6 +1,7 @@
 - chinese: 你说什么？
   english:
   - What are you saying?
+  - What did you say?
   pinyin: nǐ shuō shénme
   type: chinese
 - chinese: 你做了什么？
@@ -37,6 +38,7 @@
   type: chinese
 - chinese: 你做什么工作？
   english:
+  - What do you do for a living?
   - What do you do for work?
   - What is your occupation?
   - What's your job?
@@ -567,6 +569,7 @@
   english:
   - What time is it now?
   - What time is it?
+  - What's the time?
   pinyin: xiànzài jǐdiǎnle
   type: chinese
 - chinese: 现在三点。
@@ -1242,18 +1245,25 @@
   - Do you know him?
   pinyin: nǐ rènshi tā mǎ
   type: chinese
-# merged
-- chinese: |
-    A你怎么认识他?
+- chinese: ! 'A你怎么认识他?
+
     B他是我的同学。
+
     A他是美国人吗?
+
     B不是。是德国人。
+
+'
   english:
-  - |
-    How do you know him?
+  - ! 'How do you know him?
+
     He is my classmate.
+
     Is he an American?
-    No, he's not. He's German.
+
+    No, he''s not. He''s German.
+
+'
   pinyin: nǐ zěnme rènshi tā tā shì wǒ de tóngxué tā shì měiguórén mǎ búshi shì déguórén
   type: chinese
 - chinese: 今天我认识了一个新朋友。
@@ -1563,7 +1573,7 @@
   type: chinese
 - chinese: 问题是那天我们的车不能用。
   english:
-  - The problem is we can't use our car on that car.
+  - The problem is we can't use our car on that day.
   - The problem is we can't use our car that day.
   pinyin: wèntí shì nàtiān wǒmen de chē bùnéng yòng
   type: chinese
@@ -2153,7 +2163,7 @@
   - When she comes back you can ask her
   pinyin: děng tā huílai de shíhou wèn wèn tā
   type: chinese
-- chinese: 我等我的一个朋友等了一小时。
+- chinese: 我|等我的一个朋友等了一小时。
   english:
   - I have been waiting for a friend of mine for an hour.
   - I waited an hour for my friend.
@@ -2457,7 +2467,7 @@
   - ! '"Thank you for helping me." "It''s nothing"'
   pinyin: xièxie nǐ bāng le wǒ méishénme
   type: chinese
-- chinese: 没有你我无法做到，谢谢。
+- chinese: 没有你|我无法做到，谢谢。
   english:
   - I couldn't have done it without you. Thank you.
   - Thank you, I couldn't do it without you.
@@ -2490,7 +2500,7 @@
   - I don't understand Chinese.
   pinyin: wǒ bù dǒng zhōngwén
   type: chinese
-- chinese: 我听不懂老师说的话。
+- chinese: 我听不懂老师说的|话。
   english:
   - I don't understand what the teacher says.
   pinyin: wǒ tīngbudǒng lǎoshī shuō dehuà
@@ -2686,18 +2696,25 @@
   - We're in a meeting right now.
   pinyin: wǒmen zhèngzài kāihuì
   type: chinese
-# merged
-- chinese: |
-    A你要来开会吗？
+- chinese: ! 'A你要来开会吗？
+
     B来。
+
     A主任来吗？
+
     B可惜,他不会来。
+
+'
   english:
-  - |
-    Are you coming to the meeting?
-    I'm coming.
+  - ! 'Are you coming to the meeting?
+
+    I''m coming.
+
     Is the director coming?
-    Regrettably, he can't come.
+
+    Regrettably, he can''t come.
+
+'
   pinyin: nǐ yāo lái kāihuì mǎ lái zhǔrèn lái mǎ kěxī tā bùhuì lái
   type: chinese
 - chinese: 那里有个警察。
@@ -2759,19 +2776,27 @@
   - I should give her a phone call.
   pinyin: wǒ yīnggāi gěi tā dǎdiànhuà
   type: chinese
-# merged
-- chinese: |
-    A你昨天给我打电话了吗?
+- chinese: ! 'A你昨天给我打电话了吗?
+
     B对啊。你不接电话。
+
     A对不起,很忙的。
+
     B你说谎!
+
+'
   english:
-  - |
-    Did you call me yesterday?
-    Yes. You didn't answer the phone.
-    I'm sorry, I was very busy.
+  - ! 'Did you call me yesterday?
+
+    Yes. You didn''t answer the phone.
+
+    I''m sorry, I was very busy.
+
     You are lying!
-  pinyin: nǐ zuótiān gěi wǒ dǎdiànhuà le mǎ duì ā nǐ bù jiē diànhuà duìbuqǐ hěn máng de nǐ shuōhuǎng
+
+'
+  pinyin: nǐ zuótiān gěi wǒ dǎdiànhuà le mǎ duì ā nǐ bù jiē diànhuà duìbuqǐ hěn máng
+    de nǐ shuōhuǎng
   type: chinese
 - chinese: 我打电话的时候，她刚回到家。
   english:
@@ -2796,7 +2821,9 @@
   type: chinese
 - chinese: 我可以给你打电话吗？
   english:
+  - Can I call you?
   - Can I give you a phone call?
+  - May I call you?
   pinyin: wǒ kěyǐ gěi nǐ dǎdiànhuà mǎ
   type: chinese
 - chinese: 我知道他住哪儿。
@@ -3013,19 +3040,27 @@
   - I will forever love my parents.
   pinyin: wǒ yǒngyuǎn ài wǒ de fùmǔ
   type: chinese
-# merged
-- chinese: |
-    A你的工作是什么?
+- chinese: ! 'A你的工作是什么?
+
     B我是记者。
+
     A你喜欢你的工作吗?
+
     B是的。很有趣。
+
+'
   english:
-  - |
-    What is your work?
+  - ! 'What is your work?
+
     I am a journalist.
+
     Do you like your work?
-    Yeah. It's really fun.
-  pinyin: nǐ de gōngzuò shì shénme wǒ shì jìzhě nǐ xǐhuan nǐ de gōngzuò mǎ shìde hěn yǒuqù
+
+    Yeah. It''s really fun.
+
+'
+  pinyin: nǐ de gōngzuò shì shénme wǒ shì jìzhě nǐ xǐhuan nǐ de gōngzuò mǎ shìde hěn
+    yǒuqù
   type: chinese
 - chinese: 我住在学校的旁边。
   english:
@@ -4057,7 +4092,7 @@
   - My attitude towards him changed.
   pinyin: wǒ duì tā de tàidu biàn le
   type: chinese
-- chinese: 这是一家银行。
+- chinese: 这是一|家银行。
   english:
   - This is a bank.
   pinyin: zhè shì yījiā yínháng
@@ -4102,18 +4137,25 @@
   - She raised a lot of questions.
   pinyin: tā tí le xǔduō wèntí
   type: chinese
-# merged
-- chinese: |
-    A你几点上课?
+- chinese: ! 'A你几点上课?
+
     B十点半。
+
     A几点下课?
+
     B差一刻一点。
+
+'
   english:
-  - |
-    What time do you start the lesson?
+  - ! 'What time do you start the lesson?
+
     Ten thirty.
+
     What time does the lesson end?
+
     A quarter to one.
+
+'
   pinyin: nǐ jǐdiǎn shàngkè shí diǎn bàn jǐdiǎn xiàkè chā yī kè yīdiǎn
   type: chinese
 - chinese: 我有十美元。
@@ -4295,19 +4337,27 @@
   - There are approximately forty students in her class.
   pinyin: tā bānshàng dàyuē yǒu gè xuésheng
   type: chinese
-# merged
-- chinese: |
-    A你几点上班?
+- chinese: ! 'A你几点上班?
+
     B我大约八点半上班。
+
     A你几点下班?
+
     B一般下午五点。
+
+'
   english:
-  - |
-    What time do you start work?
+  - ! 'What time do you start work?
+
     I start work at around 8:30.
+
     What time do you finish work?
-    Ordinarily at five o'clock in the afternoon.
-  pinyin: nǐ jǐdiǎn shàngbān wǒ dàyuē bā diǎn bàn shàngbān nǐ jǐdiǎn xiàbān yībān xiàwǔ wǔ diǎn
+
+    Ordinarily at five o''clock in the afternoon.
+
+'
+  pinyin: nǐ jǐdiǎn shàngbān wǒ dàyuē bā diǎn bàn shàngbān nǐ jǐdiǎn xiàbān yībān
+    xiàwǔ wǔ diǎn
   type: chinese
 - chinese: 留学生很多。
   english:
@@ -4513,18 +4563,25 @@
   - Is your friend going to the office?
   pinyin: nǐ péngyou yāo qù bàngōngshì mǎ
   type: chinese
-# merged
-- chinese: |
-    A你有电脑吗?
+- chinese: ! 'A你有电脑吗?
+
     B我在办公室有一个。
+
     A家里有吗?
+
     B没有。
+
+'
   english:
-  - |
-    Do you have a computer?
+  - ! 'Do you have a computer?
+
     I have one at the office.
+
     What about at home?
-    I don't have one at home.
+
+    I don''t have one at home.
+
+'
   pinyin: nǐ yǒu diànnǎo mǎ wǒ zài bàngōngshì yǒu yī gè jiālǐ yǒu mǎ méiyǒu
   type: chinese
 - chinese: 我不要去办公室。
@@ -5101,19 +5158,27 @@
   - I don't like tea.
   pinyin: wǒ bù xǐhuan chá
   type: chinese
-# merged
-- chinese: |
-    A你朋友喜欢茶吗?
+- chinese: ! 'A你朋友喜欢茶吗?
+
     B不太喜欢。你喜欢茶吗?
+
     A是的。我很喜欢花茶。
+
     B我也很喜欢花茶。
+
+'
   english:
-  - |
-    Does your friend like tea?
+  - ! 'Does your friend like tea?
+
     Not that much. Do you like tea?
+
     Yes. I like perfume tea.
+
     I also like perfume tea.
-  pinyin: nǐ péngyou xǐhuan chá mǎ bù tài xǐhuan nǐ xǐhuan chá mǎ shìde wǒ hěn xǐhuan huāchá wǒ yě hěn xǐhuan huāchá
+
+'
+  pinyin: nǐ péngyou xǐhuan chá mǎ bù tài xǐhuan nǐ xǐhuan chá mǎ shìde wǒ hěn xǐhuan
+    huāchá wǒ yě hěn xǐhuan huāchá
   type: chinese
 - chinese: 你喜欢茶吗？
   english:
@@ -5224,7 +5289,7 @@
   - School's out.
   pinyin: fàngxué le
   type: chinese
-- chinese: 他考试得了第一名。
+- chinese: 他考试得|了第一名。
   english:
   - He got first place in the exam.
   pinyin: tā kǎoshì déle dìyī míng
@@ -6333,19 +6398,27 @@
   - Please give me a sheet of paper.
   pinyin: qǐng gěi wǒ yī zhāng zhǐ
   type: chinese
-# merged
-- chinese: |
-    A您会说中文吗?
+- chinese: ! 'A您会说中文吗?
+
     B会,我会说。
+
     A您会写汉字吗?
+
     B不会,我不会写。
+
+'
   english:
-  - |
-    Can you speak Chinese?
+  - ! 'Can you speak Chinese?
+
     Yes, I can speak it.
+
     Can you write Chinese?
-    No, I can't. I can't write it.
-  pinyin: nín huì shuō zhōngwén mǎ huì wǒ huì shuō nín huì xiě hànzì mǎ bùhuì wǒ bùhuì xiě
+
+    No, I can''t. I can''t write it.
+
+'
+  pinyin: nín huì shuō zhōngwén mǎ huì wǒ huì shuō nín huì xiě hànzì mǎ bùhuì wǒ bùhuì
+    xiě
   type: chinese
 - chinese: 她在写作文。
   english:
@@ -7331,18 +7404,25 @@
   - When will he return to his country?
   pinyin: tā shénmeshíhou huíguó
   type: chinese
-# merged
-- chinese: |
-    A你什么时候回国？
+- chinese: ! 'A你什么时候回国？
+
     B下个月。
+
     A你会再来中国吗？
+
     B可能。
+
+'
   english:
-  - |
-    When will you return to your country?
+  - ! 'When will you return to your country?
+
     Next month.
+
     Will you come to China again?
+
     Maybe.
+
+'
   pinyin: nǐ shénmeshíhou huíguó xiàgèyuè nǐ huì zài lái zhōngguó mǎ kěnéng
   type: chinese
 - chinese: 我们等了很久。
@@ -8196,7 +8276,7 @@
   - That person used a gun to rob the bank.
   pinyin: nàgèrén yòng qiāng qiāng yínháng
   type: chinese
-- chinese: 我有一把手枪。
+- chinese: 我有一把|手枪。
   english:
   - I have a handgun.
   pinyin: wǒ yǒu yībǎshǒu qiāng
@@ -8288,7 +8368,7 @@
   - The children washed their feet.
   pinyin: háizimen xǐ le tāmen de jiǎo
   type: chinese
-- chinese: 请把手洗干净。
+- chinese: 请把|手洗干净。
   english:
   - Please wash your hands clean.
   pinyin: qǐng bǎshǒu xǐ gānjìng
@@ -8745,18 +8825,25 @@
   - My classmate doesn't have a textbook.
   pinyin: wǒ de tóngxué méiyǒu kèběn
   type: chinese
-# Merged
-- chinese: |
-    A这是课本吗?
+- chinese: ! 'A这是课本吗?
+
     B不是。是小说。
+
     A有意思吗?
+
     B没有意思。
+
+'
   english:
-  - |
-    Is this a textbook?
-    No, it's not. It's a novel.
+  - ! 'Is this a textbook?
+
+    No, it''s not. It''s a novel.
+
     Is it interesting?
-    No, it's not interesting.
+
+    No, it''s not interesting.
+
+'
   pinyin: zhè shì kèběn mǎ búshi shì xiǎoshuō yǒuyìsi mǎ méiyǒuyìsi
   type: chinese
 - chinese: 他有课本吗？
@@ -10188,19 +10275,27 @@
   - He'll spend an average of 500 Yuan every month.
   pinyin: tā měi gè yuè píngjūn yāo huādiào wǔ bǎi yuán
   type: chinese
-# merged
-- chinese: |
-    A你想不想喝白酒?
+- chinese: ! 'A你想不想喝白酒?
+
     B不想。
+
     A你不喜欢喝白酒吗?
+
     B我不太喜欢喝。
+
+'
   english:
-  - |
-    Do you want to drink some White liquor?
-    I don't want to.
+  - ! 'Do you want to drink some White liquor?
+
+    I don''t want to.
+
     Do you not like to drink White liquor?
-    I don't like to drink it that much.
-  pinyin: nǐ xiǎng bùxiǎng hē báijiǔ bùxiǎng nǐ bù xǐhuan hē báijiǔ mǎ wǒ bù tài xǐhuan hē
+
+    I don''t like to drink it that much.
+
+'
+  pinyin: nǐ xiǎng bùxiǎng hē báijiǔ bùxiǎng nǐ bù xǐhuan hē báijiǔ mǎ wǒ bù tài xǐhuan
+    hē
   type: chinese
 - chinese: 下班时间，地铁里的人超级多。
   english:
@@ -12432,32 +12527,46 @@
   - He knows how to write Chinese.
   pinyin: tā huì xiě hànzì
   type: chinese
-# merged
-- chinese: |
-    A你认识汉字吗?
+- chinese: ! 'A你认识汉字吗?
+
     B我不认识。
+
     A你要学吗?
+
     B当然要学。
+
+'
   english:
-  - |
-    Can you read Chinese characters?
-    I can't read them.
+  - ! 'Can you read Chinese characters?
+
+    I can''t read them.
+
     Will you study them?
+
     Of course I will study them.
+
+'
   pinyin: nǐ rènshi hànzì mǎ wǒ bù rènshi nǐ yāo xué mǎ dāngrán yāo xué
   type: chinese
-# merged
-- chinese: |
-    A写汉字难吗?
+- chinese: ! 'A写汉字难吗?
+
     B很难。我不认识汉字。
+
     A说也难吗?
+
     B说不太难。
+
+'
   english:
-  - |
-    Is it difficult to write Chinese characters?
-    Yes, it's very difficult. I can't make out Chinese characters.
+  - ! 'Is it difficult to write Chinese characters?
+
+    Yes, it''s very difficult. I can''t make out Chinese characters.
+
     Is speaking also difficult?
+
     Speaking is not too difficult.
+
+'
   pinyin: xiě hànzì nán mǎ hěn nán wǒ bù rènshi hànzì shuō yě nán mǎ shuō bù tài nán
   type: chinese
 - chinese: 我的同事会写汉字。
@@ -12671,19 +12780,27 @@
   - The children are playing with their toys.
   pinyin: háizimen zài wán wánjù
   type: chinese
-# merged
-- chinese: |
-    A你妹妹想去哪里?
+- chinese: ! 'A你妹妹想去哪里?
+
     B她想去玩具店。
+
     A你想不想去那里?
+
     B不想。我想去市场。
+
+'
   english:
-  - |
-    Where does your little sister want to go?
+  - ! 'Where does your little sister want to go?
+
     She wants to go to the toy store.
+
     Do you want to go there?
-    I don't want to. I want to go to the market.
-  pinyin: nǐ mèimei xiǎng qù nǎlǐ tā xiǎng qù wánjù diàn nǐ xiǎng bùxiǎng qù nàli bùxiǎng wǒ xiǎng qù shìchǎng
+
+    I don''t want to. I want to go to the market.
+
+'
+  pinyin: nǐ mèimei xiǎng qù nǎlǐ tā xiǎng qù wánjù diàn nǐ xiǎng bùxiǎng qù nàli
+    bùxiǎng wǒ xiǎng qù shìchǎng
   type: chinese
 - chinese: 孩子们在玩儿童玩具。
   english:
@@ -13136,19 +13253,27 @@
   - She is looking for an apartment.
   pinyin: tā yāo zhǎo gōngyù
   type: chinese
-# merged
-- chinese: |
-    A他喜欢他的新公寓吗?
+- chinese: ! 'A他喜欢他的新公寓吗?
+
     B喜欢。
+
     A你喜欢你的公寓吗？
+
     B还行,但是没多大地方。
+
+'
   english:
-  - |
-    Does he like his new apartment?
+  - ! 'Does he like his new apartment?
+
     He likes it.
+
     Do you like your apartment?
-    It's alright, but there isn't enough space.
-  pinyin: tā xǐhuan tā de xīn gōngyù mǎ xǐhuan nǐ xǐhuan nǐ de gōngyù mǎ hái xíng dànshì méi duōdà dìfāng
+
+    It''s alright, but there isn''t enough space.
+
+'
+  pinyin: tā xǐhuan tā de xīn gōngyù mǎ xǐhuan nǐ xǐhuan nǐ de gōngyù mǎ hái xíng
+    dànshì méi duōdà dìfāng
   type: chinese
 - chinese: 我的新公寓在十三楼。
   english:
@@ -14891,7 +15016,7 @@
   - This is their new house.
   pinyin: zhè shì tāmen de xīn fángzi
   type: chinese
-- chinese: 这个　牌子质量　很　好！
+- chinese: 这个牌子质量很好！
   english:
   - This brand's quality is good.
   pinyin: zhège páizi zhìliàng hěn hǎo
@@ -15271,19 +15396,27 @@
   - This museum opens every day.
   pinyin: zhège bówùguǎn měitiān dōu kāifàng
   type: chinese
-# Merged
-- chinese: |
-    A你想不想跟我一起去博物馆?
+- chinese: ! 'A你想不想跟我一起去博物馆?
+
     B不行。我很忙。
+
     A你哥哥想去吗?
+
     B很难说。
+
+'
   english:
-  - |
-    Do you want to go to the museum with me?
-    It's not possible. I am very busy.
+  - ! 'Do you want to go to the museum with me?
+
+    It''s not possible. I am very busy.
+
     Would your older brother want to go?
-    It''s difficult to say.
-  pinyin: nǐ xiǎng bùxiǎng gēn wǒ yīqǐ qù bówùguǎn bùxíng wǒ hěn máng nǐ gēge xiǎng qù mǎ hěn nán shuō
+
+    It''''s difficult to say.
+
+'
+  pinyin: nǐ xiǎng bùxiǎng gēn wǒ yīqǐ qù bówùguǎn bùxíng wǒ hěn máng nǐ gēge xiǎng
+    qù mǎ hěn nán shuō
   type: chinese
 - chinese: 要去博物馆，你就得乘那辆车。
   english:
@@ -15325,18 +15458,25 @@
   - My father is a businessperson.
   pinyin: wǒ bàba shì shāngrén
   type: chinese
-# Merged
-- chinese: |
-    A你爸是商人吗？
+- chinese: ! 'A你爸是商人吗？
+
     B不是。是医生。
+
     A你是医生吗？
+
     B不是。我是老师。
+
+'
   english:
-  - |
-    Is your father a businessperson?
-    No, he's not. My father is a doctor.
+  - ! 'Is your father a businessperson?
+
+    No, he''s not. My father is a doctor.
+
     Are you a doctor?
-    No, I'm not. I'm a teacher.'
+
+    No, I''m not. I''m a teacher.''
+
+'
   pinyin: nǐ bà shì shāngrén mǎ búshi shì yīshēng nǐ shì yīshēng mǎ búshi wǒ shì lǎoshī
   type: chinese
 - chinese: 山顶的风景很美。
@@ -15684,18 +15824,25 @@
   - She's recording.
   pinyin: tā zài lùyīn
   type: chinese
-# merged
-- chinese: |
-    A他的发音怎么样?
+- chinese: ! 'A他的发音怎么样?
+
     B好。他在英国学习过,所以他有英国口音。
+
     A你觉得英国口音怎么样？
-    B我觉得英国口音听起来很优雅！'
+
+    B我觉得英国口音听起来很优雅！''
+
+'
   english:
-  - |
-    How is his pronunciation?
+  - ! 'How is his pronunciation?
+
     It is good. He studied in England for a few years so he has an English accent.
+
     What do you think of the English accent?
+
     I think the English accent sounds really refined!
+
+'
   pinyin: tā de fāyīn zěnmeyàng hǎo tā zài yīngguó xuéxí guò suǒyǐ tā yǒu yīngguó
     kǒuyīn nǐ juéde yīngguó kǒuyīn zěnmeyàng wǒ juéde yīngguó kǒuyīn tīngqilai hěn
     yōuyǎ
@@ -17266,7 +17413,7 @@
   - He's pushing the car.
   pinyin: tā zài tuīchē
   type: chinese
-- chinese: 给你解释这为什么行不通要花很多时间。
+- chinese: 给你解释这为什么行不通要花很多|时间。
   english:
   - It would take me too much time to explain to you why it's not going to work.
   pinyin: gěi nǐ jiěshì zhè wèishénme xíngbutōng yāo huā hěnduōshí jiān
@@ -17331,18 +17478,25 @@
   - Whose passport is this?
   pinyin: zhè shì shéi de hùzhào
   type: chinese
-# merged
-- chinese: |
-    A这是你的护照吗?
+- chinese: ! 'A这是你的护照吗?
+
     B不是,是他的。
+
     A你的护照在哪里?
+
     B在家。
+
+'
   english:
-  - |
-    Is this your passport?
-    No it isn't, it's his.
+  - ! 'Is this your passport?
+
+    No it isn''t, it''s his.
+
     Where is your passport?
+
     At home.
+
+'
   pinyin: zhè shì nǐ de hùzhào mǎ búshi shì tā de nǐ de hùzhào zài nǎlǐ zài jiā
   type: chinese
 - chinese: 这是周小姐的护照。
@@ -18165,19 +18319,27 @@
   - Watching TV is not interesting.
   pinyin: kān diànshì méi yǒuqù
   type: chinese
-# merged
-- chinese: |
-    A你想去看电影吗?
+- chinese: ! 'A你想去看电影吗?
+
     B不想。看电影没有趣。
+
     A那我们去茶馆吧?
+
     B好的。
+
+'
   english:
-  - |
-    Do you want to go see a movie?
-    I don't want to. Watching movies is not interesting.
+  - ! 'Do you want to go see a movie?
+
+    I don''t want to. Watching movies is not interesting.
+
     Then how about we go to a tea house?
+
     Alright.
-  pinyin: nǐ xiǎng qù kān diànyǐng mǎ bùxiǎng kān diànyǐng méi yǒuqù nā wǒmen qù cháguǎn bā hǎo de
+
+'
+  pinyin: nǐ xiǎng qù kān diànyǐng mǎ bùxiǎng kān diànyǐng méi yǒuqù nā wǒmen qù cháguǎn
+    bā hǎo de
   type: chinese
 - chinese: 他在写诗。
   english:
@@ -19893,6 +20055,7 @@
   type: chinese
 - chinese: 您贵姓？
   english:
+  - What's your family name? (very polite)
   - What's your last (family) name?
   - What's your surname please?
   pinyin: nín guìxìng
@@ -19904,6 +20067,7 @@
   type: chinese
 - chinese: 您贵姓？
   english:
+  - What's your family name? (very polite)
   - What's your last (family) name?
   - What's your surname please?
   pinyin: nín guìxìng
@@ -20855,18 +21019,25 @@
   - We're about to move to Beijing.
   pinyin: wǒmen zhǔnbèi bānjiā dào běijīng
   type: chinese
-# merged
-- chinese: |
-    A你什么时候搬家？
+- chinese: ! 'A你什么时候搬家？
+
     B三月15号。
+
     A你的新公寓在哪里?
+
     B在自由大路上。
+
+'
   english:
-  - |
-    When will you move?
+  - ! 'When will you move?
+
     March 15th.
+
     Where is your new apartment?
+
     On Freedom Road.
+
+'
   type: chinese
 - chinese: 他很在乎老师对他的看法。
   english:
@@ -21816,19 +21987,27 @@
   - Mr. Chen is at the store.
   pinyin: chén xiānsheng zài shāngdiàn
   type: chinese
-# merged
-- chinese: |
-    A陈先生,您去学校吗?
+- chinese: ! 'A陈先生,您去学校吗?
+
     B是,我去学校。你呢?
+
     A我去图书馆。再见。
+
     B再见。
+
+'
   english:
-  - |
-    Mr. Chen, are you going to school?
+  - ! 'Mr. Chen, are you going to school?
+
     Yes, I am going to school. And you?
-    I'm going to the library. Goodbye.
+
+    I''m going to the library. Goodbye.
+
     Goodbye.
-  pinyin: chén xiānsheng nín qù xuéxiào mǎ shì wǒ qù xuéxiào nǐ ne wǒ qù túshūguǎn zàijiàn zàijiàn
+
+'
+  pinyin: chén xiānsheng nín qù xuéxiào mǎ shì wǒ qù xuéxiào nǐ ne wǒ qù túshūguǎn
+    zàijiàn zàijiàn
   type: chinese
 - chinese: 你怎么认识陈先生的？
   english:
@@ -21895,19 +22074,27 @@
   - Mr. Chen does not like to drink Cola.
   pinyin: chén xiānsheng bù xǐhuan hē kělè
   type: chinese
-# merged
-- chinese: |
-    A陈先生英语说得很好。
+- chinese: ! 'A陈先生英语说得很好。
+
     B是,他在加拿大住过三年。
+
     A我英语说得不太好。
+
     B我也说得不太好。
+
+'
   english:
-  - |
-    Mr. Chen speaks English really well.
+  - ! 'Mr. Chen speaks English really well.
+
     Yes, he lived in Canada for three years.
-    I don't speak English very well.
-    I also don't speak it very well.
-  pinyin: chén xiānsheng yīngyǔ shuō dehěn hǎo shì tā zài jiānádà zhù guò sān nián wǒ yīngyǔ shuō dé bùtàihǎo wǒ yě shuō dé bùtàihǎo
+
+    I don''t speak English very well.
+
+    I also don''t speak it very well.
+
+'
+  pinyin: chén xiānsheng yīngyǔ shuō dehěn hǎo shì tā zài jiānádà zhù guò sān nián
+    wǒ yīngyǔ shuō dé bùtàihǎo wǒ yě shuō dé bùtàihǎo
   type: chinese
 - chinese: 陈先生的爱好是书法。
   english:
@@ -22321,19 +22508,27 @@
   - Next week I will go to Shenyang.
   pinyin: xiàgèxīngqī wǒ yāo qù shěnyáng
   type: chinese
-# merged
-- chinese: |
-    A你父母住在哪里?
+- chinese: ! 'A你父母住在哪里?
+
     B我父母住在沈阳。
+
     A他们喜欢沈阳吗?
+
     B不太喜欢。
+
+'
   english:
-  - |
-    Where do your parents live?
+  - ! 'Where do your parents live?
+
     My parents live in Shenyang.
+
     Do they like Shenyang?
+
     Not that much.
-  pinyin: nǐ fùmǔ zhù zài nǎlǐ wǒ fùmǔ zhù zài shěnyáng tāmen xǐhuan shěnyáng mǎ bù tài xǐhuan
+
+'
+  pinyin: nǐ fùmǔ zhù zài nǎlǐ wǒ fùmǔ zhù zài shěnyáng tāmen xǐhuan shěnyáng mǎ bù
+    tài xǐhuan
   type: chinese
 - chinese: 沈阳是古老的城市。
   english:
@@ -22664,20 +22859,28 @@
   - My father retired to make way for younger people.
   pinyin: wǒ bàba tuìxiū le yǐbiàn wéi gēng niánqīng de rén rànglù
   type: chinese
-# merged
-- chinese: |
-    A我想报一个汉语学习班。
+- chinese: ! 'A我想报一个汉语学习班。
+
     B真的吗？我觉得，学习汉语对于外国人太难了。
+
     A可能，不过我觉得汉语口语不太难。
+
     B但是认识汉字太难了。
+
+'
   english:
-  - |
-    I want to sign up for a Chinese course.
-    Really? I think it's too difficult for foreigners to learn Chinese.
+  - ! 'I want to sign up for a Chinese course.
+
+    Really? I think it''s too difficult for foreigners to learn Chinese.
+
     Maybe, but I think spoken Chinese is really easy.
+
     But Chinese characters are too difficult.
+
+'
   pinyin: wǒ xiǎng bào yī gè hànyǔ xuéxí bān zhēn de mǎ wǒ juéde xuéxí hànyǔ duìyú
-    wàiguórén tài nán le kěnéng bùguò wǒ juéde hànyǔ kǒuyǔ bù tài nán dànshì rènshi hànzì tài nán
+    wàiguórén tài nán le kěnéng bùguò wǒ juéde hànyǔ kǒuyǔ bù tài nán dànshì rènshi
+    hànzì tài nán
   type: chinese
 - chinese: 抢劫是一种犯罪。
   english:
@@ -25032,19 +25235,27 @@
   - Ms. Wang is not at the hotel.
   pinyin: wáng xiǎojie bùzài bīnguǎn
   type: chinese
-# merged
-- chinese: |
-    A王小姐在教室吗?
+- chinese: ! 'A王小姐在教室吗?
+
     B不在。王小姐不在学校。
+
     A王小姐在家吗?
+
     B不在。在医院。
+
+'
   english:
-  - |
-    Is Ms. Wang in the classroom?
-    No, she isn't. Ms. Wang is not at school.
+  - ! 'Is Ms. Wang in the classroom?
+
+    No, she isn''t. Ms. Wang is not at school.
+
     Is Ms. Wang at home?
-    No, she isn't. (She) is at the hospital.
-  pinyin: wáng xiǎojie zài jiàoshì mǎ bùzài wáng xiǎojie bùzài xuéxiào wáng xiǎojie zài jiā mǎ bùzài zài yīyuàn
+
+    No, she isn''t. (She) is at the hospital.
+
+'
+  pinyin: wáng xiǎojie zài jiàoshì mǎ bùzài wáng xiǎojie bùzài xuéxiào wáng xiǎojie
+    zài jiā mǎ bùzài zài yīyuàn
   type: chinese
 - chinese: 王小姐在地铁站。
   english:
@@ -28711,19 +28922,27 @@
   - He's been bitten by a mosquito.
   pinyin: tā bèi wénzi yǎo le
   type: chinese
-# Merged
-- chinese: |
-    A你哥哥今天想做什么?
+- chinese: ! 'A你哥哥今天想做什么?
+
     B他想去王府井大街。
+
     A我也想。
+
     B那跟我们一起去吧！
+
+'
   english:
-  - |
-    What does your older brother want to do today?
+  - ! 'What does your older brother want to do today?
+
     He wants to go to Wangfujing street.
+
     I also want to.
+
     Then go with us!
-  pinyin: nǐ gēge jīntiān xiǎng zuò shénme tā xiǎng qù wángfǔjǐng dàjiē wǒ yě xiǎng nā gēn wǒmen yīqǐ qù ba
+
+'
+  pinyin: nǐ gēge jīntiān xiǎng zuò shénme tā xiǎng qù wángfǔjǐng dàjiē wǒ yě xiǎng
+    nā gēn wǒmen yīqǐ qù ba
   type: chinese
 - chinese: 明天就是元旦了。
   english:
@@ -28811,17 +29030,18 @@
   - How long do you need to prepare lessons for?
   pinyin: nǐ bèikè yāo duō cháng shíjiān
   type: chinese
-# merged
-- chinese: |
-    A你昨天做了什么?
+- chinese: ! 'A你昨天做了什么?
+
     B我备课了。你呢?
+
     A我喝醉了。
+
     B哎哟!你是个酒鬼。
+
+'
   english:
-  - What did you do yesterday?
-    I prepared lessons. And you?
-    I got drunk.
-    My goodness! You are an alcoholic.
+  - What did you do yesterday? I prepared lessons. And you? I got drunk. My goodness!
+    You are an alcoholic.
   pinyin: nǐ zuótiān zuò le shénme wǒ bèikè le nǐ ne wǒ hēzuì le āiyō nǐ shì gè jiǔguǐ
   type: chinese
 - chinese: 陈老师应该备课。
@@ -29172,18 +29392,25 @@
   - Everyone considers Guilin to be a beautiful place.
   pinyin: dàjiā rènwéi guìlín shì gè piàoliang de dìfāng
   type: chinese
-# merged
-- chinese: |
-    A你去过桂林吗?
+- chinese: ! 'A你去过桂林吗?
+
     B是,我去过。
+
     A你喜欢吗?
+
     B很喜欢。桂林很漂亮。
+
+'
   english:
-  - |
-    Have you been to Guilin?
+  - ! 'Have you been to Guilin?
+
     Yes, I have been there.
+
     Did you like it?
+
     I liked it a lot. Guilin is very pretty.
+
+'
   pinyin: nǐ qù guò guìlín mǎ shì wǒ qù guò nǐ xǐhuan mǎ hěn xǐhuan guìlín hěn piàoliang
   type: chinese
 - chinese: 那个发现纯属偶然。
@@ -31554,18 +31781,25 @@
   - The new CEO reversed this company's losses.
   pinyin: xīn zǒngcái niǔzhuǎn le zhè jiā gōngsī de kuīsǔn
   type: chinese
-# merged
-- chinese: |
-    A你教什么学科?
+- chinese: ! 'A你教什么学科?
+
     B我教化学。你教英文吗?
+
     A不教。我是营业顾问。
+
     B是吗？
+
+'
   english:
-  - |
-    What subject do you teach?
+  - ! 'What subject do you teach?
+
     I teach Chemistry. Do you teach English?
-    I don't teach. I'm a business consultant.
+
+    I don''t teach. I''m a business consultant.
+
     Is that so?
+
+'
   type: chinese
 - chinese: 他喜欢吃熏肉。
   english:
@@ -33583,18 +33817,25 @@
   - The crowd surged into the train station.
   pinyin: rénqún yǒng rù le chēzhàn
   type: chinese
-# merged
-- chinese: |
-    A听说你是售货员,对吗?
+- chinese: ! 'A听说你是售货员,对吗?
+
     B不对,我是清洁工。
+
     A听说清洁工的工作很难。
+
     B对啊,薪水也很少。
+
+'
   english:
-  - |
-    I hear that you are a shop assistant, is that right?
-    No, that''s not correct. I am a cleaner.
+  - ! 'I hear that you are a shop assistant, is that right?
+
+    No, that''''s not correct. I am a cleaner.
+
     I hear that the work of a cleaner is difficult.
+
     Oh yes, and the salary is also very low.
+
+'
   type: chinese
 - chinese: 直到我自己有了孩子我才明白了什么是母爱。
   english:
@@ -36239,18 +36480,25 @@
   - Father would often read detective stories in his spare time.
   pinyin: fùqīn chángcháng zài kòngxián shíjiān dú zhēntàn xiǎoshuō
   type: chinese
-# merged
-- chinese: |
-    A你喜欢你的同屋吗？
+- chinese: ! 'A你喜欢你的同屋吗？
+
     B喜欢。他是个活跃的人而且他去过许多地方。
+
     A我觉得他是个花花公子。
+
     B真的吗？
+
+'
   english:
-  - |
-    Do you like your roommate?
+  - ! 'Do you like your roommate?
+
     I like him. He is an active person and he is very well traveled.
+
     I feel that he is a playboy.
+
     Really?
+
+'
   pinyin: nǐ xǐhuan nǐ de tóngwū mǎ xǐhuan tā shì gè huóyuè de rén érqiě tā qù guò
     xǔduō dìfāng wǒ juéde tā shì gè huāhuāgōngzǐ zhēn de mǎ
   type: chinese
